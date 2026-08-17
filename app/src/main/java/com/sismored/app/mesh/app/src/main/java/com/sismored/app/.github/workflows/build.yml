@@ -1,4 +1,4 @@
-name: Compilar APK
+name:
 
 on:
   push:
